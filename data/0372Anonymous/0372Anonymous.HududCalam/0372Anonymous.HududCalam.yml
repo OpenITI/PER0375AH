@@ -8,6 +8,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
@@ -19,4 +20,4 @@
     of an Arabic original or was directly written in Persian.
     The unique manuscript was copied in 656/1258 and forms part of a majmūʿ
     manuscript with three other texts. See GAS 14.233f. and
-    Bosworth's translation of Barthold's edition of the text. 
+    Bosworth's translation of Barthold's edition of the text.
